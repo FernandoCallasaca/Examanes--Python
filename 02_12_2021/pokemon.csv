@@ -1,0 +1,11 @@
+﻿nombre;id;puntos de ataque;defensa;velocidad;habilidad
+Bulbasaur1;1;65;65;45;Overgrow
+Ivysaur1;2;80;80;60;Overgrow
+Venusaur1;3;122;120;80;Overgrow
+Charmander1;4;60;50;65;Blaze
+Charmeleon1;5;80;65;80;Blaze
+Charizard1;6;159;115;100;Blaze
+Squirtle1;7;50;64;43;Torrent
+Wartortle1;8;65;80;58;Torrent
+Blastoise1;9;135;115;78;Torrent
+Caterpie1;10;20;20;45;Shield Dust
